@@ -17,7 +17,7 @@ public class Reverse_num {
     }
 
     public static void main(String[] args) {
-	System.out.println("Enter the number to reverse");
+	System.out.println("Enter the number to reverse ");
 	Scanner scanner = new Scanner(System.in);
 	int num = scanner.nextInt();
 	System.out.println("the reverse of given number is");
